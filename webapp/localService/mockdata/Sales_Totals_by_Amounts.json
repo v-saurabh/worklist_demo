@@ -1,0 +1,91 @@
+[{
+	"SaleAmount": 1202.35,
+	"OrderID": 2031,
+	"CompanyName": "CompanyName 1",
+	"ShippedDate": "/Date(1442205908000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=2031,CompanyName='CompanyName%201')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 3970.05,
+	"OrderID": 8543,
+	"CompanyName": "CompanyName 2",
+	"ShippedDate": "/Date(1329540308000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=8543,CompanyName='CompanyName%202')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 1551.12,
+	"OrderID": 2531,
+	"CompanyName": "CompanyName 3",
+	"ShippedDate": "/Date(1507610708000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=2531,CompanyName='CompanyName%203')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 629.13,
+	"OrderID": 6010,
+	"CompanyName": "CompanyName 4",
+	"ShippedDate": "/Date(1458881108000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=6010,CompanyName='CompanyName%204')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 4828.82,
+	"OrderID": 947,
+	"CompanyName": "CompanyName 5",
+	"ShippedDate": "/Date(1138077908000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=947,CompanyName='CompanyName%205')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 4863.31,
+	"OrderID": 3181,
+	"CompanyName": "CompanyName 6",
+	"ShippedDate": "/Date(1279773908000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=3181,CompanyName='CompanyName%206')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 319.68,
+	"OrderID": 4901,
+	"CompanyName": "CompanyName 7",
+	"ShippedDate": "/Date(997764308000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=4901,CompanyName='CompanyName%207')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 143.61,
+	"OrderID": 178,
+	"CompanyName": "CompanyName 8",
+	"ShippedDate": "/Date(1193546708000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=178,CompanyName='CompanyName%208')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 8138.41,
+	"OrderID": 359,
+	"CompanyName": "CompanyName 9",
+	"ShippedDate": "/Date(1322714708000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=359,CompanyName='CompanyName%209')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}, {
+	"SaleAmount": 6024.74,
+	"OrderID": 9321,
+	"CompanyName": "CompanyName 10",
+	"ShippedDate": "/Date(1334637908000)/",
+	"__metadata": {
+		"uri": "Sales_Totals_by_Amounts(OrderID=9321,CompanyName='CompanyName%2010')",
+		"type": "NorthwindModel.Sales_Totals_by_Amount"
+	}
+}]

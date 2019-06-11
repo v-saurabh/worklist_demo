@@ -1,0 +1,91 @@
+[{
+	"CategoryID": 674,
+	"CategoryName": "CategoryName 1",
+	"ProductName": "ProductName 1",
+	"ProductSales": 4800.81,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=674,CategoryName='CategoryName%201',ProductName='ProductName%201')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 9311,
+	"CategoryName": "CategoryName 2",
+	"ProductName": "ProductName 2",
+	"ProductSales": 276.15,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=9311,CategoryName='CategoryName%202',ProductName='ProductName%202')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 6722,
+	"CategoryName": "CategoryName 3",
+	"ProductName": "ProductName 3",
+	"ProductSales": 9986.29,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=6722,CategoryName='CategoryName%203',ProductName='ProductName%203')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 6746,
+	"CategoryName": "CategoryName 4",
+	"ProductName": "ProductName 4",
+	"ProductSales": 3261.85,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=6746,CategoryName='CategoryName%204',ProductName='ProductName%204')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 9983,
+	"CategoryName": "CategoryName 5",
+	"ProductName": "ProductName 5",
+	"ProductSales": 2110.96,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=9983,CategoryName='CategoryName%205',ProductName='ProductName%205')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 1483,
+	"CategoryName": "CategoryName 6",
+	"ProductName": "ProductName 6",
+	"ProductSales": 4309.95,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=1483,CategoryName='CategoryName%206',ProductName='ProductName%206')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 800,
+	"CategoryName": "CategoryName 7",
+	"ProductName": "ProductName 7",
+	"ProductSales": 2652.34,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=800,CategoryName='CategoryName%207',ProductName='ProductName%207')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 6627,
+	"CategoryName": "CategoryName 8",
+	"ProductName": "ProductName 8",
+	"ProductSales": 8211.79,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=6627,CategoryName='CategoryName%208',ProductName='ProductName%208')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 3363,
+	"CategoryName": "CategoryName 9",
+	"ProductName": "ProductName 9",
+	"ProductSales": 6843.5,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=3363,CategoryName='CategoryName%209',ProductName='ProductName%209')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}, {
+	"CategoryID": 7703,
+	"CategoryName": "CategoryName 10",
+	"ProductName": "ProductName 10",
+	"ProductSales": 748.52,
+	"__metadata": {
+		"uri": "Sales_by_Categories(CategoryID=7703,CategoryName='CategoryName%2010',ProductName='ProductName%2010')",
+		"type": "NorthwindModel.Sales_by_Category"
+	}
+}]

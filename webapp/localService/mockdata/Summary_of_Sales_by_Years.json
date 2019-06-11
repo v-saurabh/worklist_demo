@@ -1,0 +1,81 @@
+[{
+	"ShippedDate": "/Date(1367383512000)/",
+	"OrderID": 5142,
+	"Subtotal": 8860.45,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(5142)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1420173912000)/",
+	"OrderID": 503,
+	"Subtotal": 6729.15,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(503)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(981607512000)/",
+	"OrderID": 9785,
+	"Subtotal": 7555.87,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(9785)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1212727512000)/",
+	"OrderID": 5377,
+	"Subtotal": 4686.3,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(5377)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1021092312000)/",
+	"OrderID": 1569,
+	"Subtotal": 2021.44,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(1569)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1056861912000)/",
+	"OrderID": 9394,
+	"Subtotal": 8544.57,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(9394)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(976509912000)/",
+	"OrderID": 9617,
+	"Subtotal": 5266.61,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(9617)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1356410712000)/",
+	"OrderID": 1980,
+	"Subtotal": 322.73,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(1980)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1174020312000)/",
+	"OrderID": 5044,
+	"Subtotal": 2199.73,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(5044)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}, {
+	"ShippedDate": "/Date(1535517912000)/",
+	"OrderID": 6023,
+	"Subtotal": 8396.72,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Years(6023)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Year"
+	}
+}]

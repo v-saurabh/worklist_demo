@@ -1,0 +1,81 @@
+[{
+	"ShippedDate": "/Date(1453437910000)/",
+	"OrderID": 6539,
+	"Subtotal": 3884.55,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(6539)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1129178710000)/",
+	"OrderID": 247,
+	"Subtotal": 3343.12,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(247)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1116909910000)/",
+	"OrderID": 2868,
+	"Subtotal": 6092.14,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(2868)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1407473110000)/",
+	"OrderID": 7995,
+	"Subtotal": 568.55,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(7995)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1477629910000)/",
+	"OrderID": 676,
+	"Subtotal": 3888.35,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(676)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1517201110000)/",
+	"OrderID": 567,
+	"Subtotal": 530.07,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(567)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1436935510000)/",
+	"OrderID": 613,
+	"Subtotal": 407.22,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(613)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1317703510000)/",
+	"OrderID": 2837,
+	"Subtotal": 343.56,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(2837)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1201581910000)/",
+	"OrderID": 1209,
+	"Subtotal": 5267.52,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(1209)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}, {
+	"ShippedDate": "/Date(1393130710000)/",
+	"OrderID": 4280,
+	"Subtotal": 6312.86,
+	"__metadata": {
+		"uri": "Summary_of_Sales_by_Quarters(4280)",
+		"type": "NorthwindModel.Summary_of_Sales_by_Quarter"
+	}
+}]
